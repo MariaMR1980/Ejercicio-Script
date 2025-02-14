@@ -1,2 +1,5 @@
 print("Mi primer ejercicio")
 print ("Estoy aprendiendo a usar Git y Github")
+print("¡Hola, mundo!")
+print("Estoy aprendiendo a usar Git y GitHub")
+print("¡He añadido una nueva funcionalidad en una rama!")
